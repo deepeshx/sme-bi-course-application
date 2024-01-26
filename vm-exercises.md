@@ -30,7 +30,7 @@ Imagine you are a digital marketing analyst working with comprehensive Google An
 - Access the `Digital Marketing Trends` report and identify a visual that displays the _Sessions by Year and Quarter_.
 - Drill down into the visual to explore the Sessions distribution by individual months within the Quarter.
 - Apply a filter to focus only on "New Visitor" information in the report.
-- Right-click and _Drill-through_ in the visual from a specific month where the number of sessions is the lowest.
+- Right-click and _Drill-through_ in the visual from a specific month in the year 2023 where the number of sessions is the lowest.
 - _Cross-filter_ and explore all the Social media platforms in which the bounce rate has been the highest.
 
 
