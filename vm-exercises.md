@@ -18,11 +18,11 @@
 
 #### Learning Objective
 
-*Upon completion of this exercise, learners should be able to effectively utilize drill-down and drillthrough and explore features in Power BI Service to analyze and gain deeper insights*
+Upon completion of this exercise, learners should be able to effectively utilize drill-down and drillthrough and explore features in Power BI Service to analyze and gain deeper insights
 
 #### Context
 
-*Imagine you are a digital marketing analyst working with comprehensive Google Analytics data in Power BI Service. Your manager has asked you to investigate specific data points and trends to make informed decisions for the upcoming fiscal year on the digital marketing activities and promotions. In this exercise, you will use the _Drill-down_, _Drillthrough_ and _Analyze_ features to perform a detailed analysis and present actionable insights.*
+Imagine you are a digital marketing analyst working with comprehensive Google Analytics data in Power BI Service. Your manager has asked you to investigate specific data points and trends to make informed decisions for the upcoming fiscal year on the digital marketing activities and promotions. In this exercise, you will use the _Drill-down_, _Drillthrough_ and _Analyze_ features to perform a detailed analysis and present actionable insights.
 
 #### Steps to be executed by the student (max 6)
 
