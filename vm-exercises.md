@@ -44,7 +44,7 @@ What is the bounce rate of Facebook Reels for March 2023?
 
 #### End goal:
 
-*Add an image of the final visualization here.*
+![Digital Marketing Trend](https://raw.githubusercontent.com/deepeshx/sme-bi-course-application/master/datasets/ex-1-sol.png)
 
 ## 2nd VM Exercise
 
@@ -87,5 +87,5 @@ Which days of the week accounted for the majority of the increase in sessions?
 
 #### End goal:
 
-*Add an image of the final visualization here.*
+![Digital Marketing Trend](https://raw.githubusercontent.com/deepeshx/sme-bi-course-application/master/datasets/ex-2-sol.png)
 
