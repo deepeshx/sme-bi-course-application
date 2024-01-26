@@ -74,6 +74,7 @@ As a digital marketing analyst, you are tasked with identifying trends and varia
 - Filter the report to show the data only for the last year and for the returning visitor.
 - Apply the _Analyze_ feature to identify the reason for the highest increase in the number of sessions for a month.
 - Analyze the trends to understand which days or social media platforms are helping in increasing the traffic on the website and record this result.
+- Click anywhere on the report again to close the analysis pop-up.
 
 
 #### Exercise question:
