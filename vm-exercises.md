@@ -9,7 +9,7 @@
 
 #### Dataset
 
-- [ ] Add datasets used to the `datasets/` folder : `Digital Marketing_SiteData`
+- [ ] Add datasets used to the `datasets/` folder : Uploaded `Digital Marketing_SiteData.xlsx`
 
 #### Files
 
@@ -18,25 +18,27 @@
 
 #### Learning Objective
 
-Upon completion of this exercise, learners should be able to effectively utilize drill-down and drillthrough and explore features in Power BI Service to analyze and gain deeper insights
+Upon completion of this exercise, learners should be able to effectively utilize drill-down and drillthrough features in Power BI Service to analyze and gain deeper insights
 
 #### Context
 
-Imagine you are a digital marketing analyst working with comprehensive Google Analytics data in Power BI Service. Your manager has asked you to investigate specific data points and trends to make informed decisions for the upcoming fiscal year on the digital marketing activities and promotions. In this exercise, you will use the _Drill-down_, _Drillthrough_ and _Analyze_ features to perform a detailed analysis and present actionable insights.
+Imagine you are a digital marketing analyst working with comprehensive Google Analytics data in Power BI Service. Your manager has asked you to investigate specific data points and trends to make informed decisions for the upcoming fiscal year on the digital marketing activities and promotions. 
+
+In this exercise, you will use the _Drill-down_, _Drillthrough_ and _Analyze_ features to perform a detailed analysis and present actionable insights.
 
 #### Steps to be executed by the student (max 6)
 
-- In the `Power BI Service`, navigate to the workspace named `Digital Marketing`.
+- In the _Power BI Service_, navigate to the workspace named `Digital Marketing`.
 - Access the `Digital Marketing Trends` report and identify a visual that displays the _Sessions by Year and Quarter_.
-- Drill down into the visual to explore the Sessions distribution by individual months within the Quarter.
+- _Drill down_ into the visual to explore the Sessions distribution by individual months within the Quarter.
 - Apply a filter to focus only on "New Visitor" information in the report.
 - Right-click and _Drill-through_ in the visual from a specific month in the year 2023 where the number of sessions is the lowest.
-- _Cross-filter_ and explore all the Social media platforms in which the bounce rate has been the highest.
+- _Cross-filter_ between visuals and explore all the Social media platforms in which the bounce rate has been the highest.
 
 
 #### Exercise question:
 
-What is the bounce rate of Facebook Reels for March 2023? 
+What is the bounce rate of "Facebook Reels" for March 2023? 
 - 43.97%
 - 40.00%
 - 47.06% (Right answer)
@@ -50,7 +52,7 @@ What is the bounce rate of Facebook Reels for March 2023?
 
 #### Dataset
 
-- [ ] Add datasets used to the `datasets/` folder
+- [ ] Add datasets used to the `datasets/` folder : `Uploaded Digital Marketing_SiteData.xlsx`.
 
 #### Files
 
@@ -59,7 +61,7 @@ What is the bounce rate of Facebook Reels for March 2023?
 
 #### Learning Objective
 
-learners should be able to effectively use the _Analyze_ feature in _Power BI Service_ to identify hidden trends and changes in numerical data. End users and learners will further use the _Slicers_ to filter the data and dive deeper in the data.
+learners should be able to effectively use the _Analyze_ feature in _Power BI Service_ to identify hidden trends and changes in numerical data. Learners will further use the _Slicers_ to filter and dive deeper into the data.
 
 #### Context
 
