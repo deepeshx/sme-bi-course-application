@@ -36,10 +36,10 @@ Imagine you are a digital marketing analyst working with comprehensive Google An
 
 #### Exercise question:
 
-What is the bounce rate of Instagram for March 2023? 
+What is the bounce rate of Facebook Reels for March 2023? 
 - 43.97%
 - 40.00%
-- 28.57% (Right answer)
+- 47.06% (Right answer)
 - 55.34%
 
 #### End goal:
