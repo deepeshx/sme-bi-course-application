@@ -29,8 +29,8 @@ Imagine you are a digital marketing analyst working with comprehensive Google An
 - In the `Power BI Service`, navigate to the workspace named `Digital Marketing`.
 - Access the `Digital Marketing Trends` report and identify a visual that displays the _Sessions by Year and Quarter_.
 - Drill down into the visual to explore the Sessions distribution by individual months within the Quarter.
-- Apply a filter to focus only on New visitor information in the report.
-- Right-click and _Drill-through_ in the visual from a specific month where the _number of sessions_ is lowest.
+- Apply a filter to focus only on "New Visitor" information in the report.
+- Right-click and _Drill-through_ in the visual from a specific month where the number of sessions is the lowest.
 - _Cross-filter_ and explore all the Social media platforms in which the bounce rate has been the highest.
 
 
@@ -59,11 +59,11 @@ What is the bounce rate of Instagram for March 2023?
 
 #### Learning Objective
 
-*learners should be able to effectively use the _Analyze_ feature in _Power BI Service_ to identify hidden trends and changes in numerical data. End users and learners will further use the _Slicers_ to filter the data and dive deeper in the data.*
+learners should be able to effectively use the _Analyze_ feature in _Power BI Service_ to identify hidden trends and changes in numerical data. End users and learners will further use the _Slicers_ to filter the data and dive deeper in the data.
 
 #### Context
 
-*As a digital marketing analyst, you are tasked with identifying trends and variations in monthly sales data. Your goal is to utilize the _Analyze_ and _Explain the Increase_ feature in Power BI Service to quickly analyze and present insights on the changes in sales figures over time and make required decisions based on that*
+As a digital marketing analyst, you are tasked with identifying trends and variations in monthly sales data. Your goal is to utilize the _Analyze_ and _Explain the Increase_ feature in Power BI Service to quickly analyze and present insights on the changes in sales figures over time and make required decisions based on that.
 
 #### Steps to be executed by the student (max 6)
 
@@ -72,7 +72,7 @@ What is the bounce rate of Instagram for March 2023?
 - Open the Power BI Service and navigate to the `Digital Marketing Trends`  report in the `Monthly Trends` workspace.
 - Identify a visual that displays month-over-month sessions data.
 - Filter the report to show the data only for the last year and for the returning visitor.
-- Apply the _Analyze_ feature to identify what could be the reason for the highest increase in the number of sessions for a month.
+- Apply the _Analyze_ feature to identify the reason for the highest increase in the number of sessions for a month.
 - Analyze the trends to understand which days or social media platforms are helping in increasing the traffic on the website and record this result.
 
 
